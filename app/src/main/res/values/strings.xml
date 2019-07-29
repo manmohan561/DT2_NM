@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ConnectFour</string>
+    <string name="ma_btnSinglePlayer">SinglePlayer</string>
+    <string name="ma_btnMultiPlayer">MultiPlayer</string>
+    <string name="ga_Menu_Reset">Reset</string>
+    <string name="ssTvLogo">Connect Four</string>
+    <string-array name="am_player1">
+        <item>Player 1</item>
+        <item>Human</item>
+    </string-array>
+    <string-array name="am_player2">
+        <item>Player 2</item>
+        <item>Human</item>
+    </string-array>
+    <string-array name="am_GridDimension">
+        <item>Grid Dimension</item>
+        <item>7x6</item>
+        <item>5x4</item>
+        <item>6x5</item>
+        <item>8x7</item>
+        <item>9x7</item>
+        <item>8x8</item>
+    </string-array>
+</resources>
